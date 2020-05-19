@@ -2,7 +2,7 @@
   "name": "saleshut",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/AAYusuf/myShop.git",
+  "homepage":"https://aayusuf.github.io/myShop/",
   "dependencies": {
     "@sweetalert/with-react": "^0.1.1",
     "@testing-library/jest-dom": "^4.2.4",
