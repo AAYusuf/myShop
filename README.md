@@ -1,5 +1,10 @@
 
 ## mySHop
 
-A general marketplace project i am working.
+A landing page for general marketplace for online vendors project.
+Built with:
+
+React
+Bootstrap
+
 
